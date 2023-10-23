@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I''m Mertens Valéry. I'm a CS student at UCLouvain in Belgium.<br><br>After graduation, I'd love to work in a big company such as Apple , Google, Amazon or Netflix.<br><br>My portfolio is currently in progress...<br><br>If you want to get in touch : Mertens.valery@gmail.com<br>
+Hey! I'm Mertens Valéry. I'm a CS student at UCLouvain in Belgium.<br><br>After graduation, I'd love to work in a big company such as Apple , Google, Amazon or Netflix.<br><br>My portfolio is currently in progress...<br><br>If you want to get in touch : Mertens.valery@gmail.com<br>
 
 
 # 💻 Tech Stack:
